@@ -1,1 +1,3 @@
-# agile-devops-git-lab
+# Agile IT with DevOps
+My first GitHub project.
+Student: Mustafa
